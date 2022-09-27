@@ -69,7 +69,7 @@ email: ''
 highlight_name: true
 ---
 
-I am in my fourth year as a grad student and am studying under 
-[Dr. Jarad Niemi](https://www.jarad.me/).
+I am a fourth year PhD student studying under 
+[Dr. Jarad Niemi](https://www.jarad.me/). My 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
