@@ -70,6 +70,6 @@ highlight_name: true
 ---
 
 I am in my fourth year as a grad student and am studying under 
-[Dr. Jarad Niemi][https://www.jarad.me/].
+\href{Dr. Jarad Niemi}{https://www.jarad.me/}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
