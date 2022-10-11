@@ -18,8 +18,9 @@ bio: I am a
 
 # Interests to show in About widget
 interests:
-  - Bayesian statistics
   - Disease outbreak forecasting
+  - Stochastic processes
+  - State space models
 
 # Education to show in About widget
 education:
@@ -53,7 +54,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/spencer-wadsworth
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
