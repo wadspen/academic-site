@@ -71,6 +71,12 @@ highlight_name: true
 ---
 
 I am a fourth year PhD student studying under 
-[Dr. Jarad Niemi](https://www.jarad.me/). My 
+[Dr. Jarad Niemi](https://www.jarad.me/). I chose to study Statistics in 2017
+on a whim and have yet to look back. Five years later, I'm evermore amazed at 
+the power of Statistics and the brilliance of great statisticians.
+# I grew up in Pocatello, Idaho which is 
+# maybe why you rarely see me without a smile on my face. I'm an avid BYU football
+# fan, a whitewater rafting enthusiast, and a sucker for a good jazz listening
+# room.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
