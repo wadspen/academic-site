@@ -10,7 +10,7 @@ headless: false
 weight: 65
 
 title: Academic Projects
-subtitle: 'yourmom goes to college'
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
