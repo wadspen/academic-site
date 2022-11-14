@@ -75,4 +75,4 @@ I am a fourth year PhD student studying under
 on a whim and have yet to look back. Five years later, I'm evermore amazed at 
 the power of Statistics and the brilliance of great statisticians.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Download my {{< staticref "personal/spiritual" "newtab" >}}resumé{{< /staticref >}}.
