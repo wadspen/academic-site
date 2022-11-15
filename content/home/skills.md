@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Highlighted Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -20,10 +20,10 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description:
     icon: "stan"
     icon_pack: "custom"
-    name: STAN
+    name: Stan
   - description: "Semi-fluent"
     icon: fa-light fa-language
     icon_pack: fas
