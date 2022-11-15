@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 10%
-    icon: <i class="fa-solid fa-language"></i>
+    icon: fa-solid fa-language
     icon_pack: fas
     name: Spanish
 # Uncomment to use emoji icons.
