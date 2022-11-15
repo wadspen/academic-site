@@ -20,7 +20,7 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description:
+  - description: "MCMC"
     icon: "stan"
     icon_pack: "custom"
     name: Stan
