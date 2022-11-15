@@ -21,12 +21,12 @@ feature:
     icon_pack: fab
     name: R
   - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: STAN
-  - description: "Semi-fluent"
     icon: "stan"
     icon_pack: "custom"
+    name: STAN
+  - description: "Semi-fluent"
+    icon: fa-light fa-language
+    icon_pack: fas
     name: "Spanish"
 
     # icon: fa-solid fa-language
