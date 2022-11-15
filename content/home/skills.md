@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: STAN
   - description: "Semi-fluent"
-    icon: stan
+    icon: "stan"
     icon_pack: "custom"
     name: "Spanish"
 
