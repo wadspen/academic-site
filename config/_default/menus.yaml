@@ -11,7 +11,7 @@ main:
     url: 'academic'
     weight: 20
   - name: Professional
-    url: 'professional'
+    url: 'protest'
     weight: 30
   - name: Personal
     url: 'personal'
