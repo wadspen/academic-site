@@ -29,10 +29,10 @@ publication_types: ['2']
 publication: In preparation
 # publication_short: In preparation
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: To be added.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/science/forecasting/forecasting-us.html)'
   focal_point: ''
   preview_only: false
 
@@ -65,23 +65,23 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
+# 
+# {{% callout note %}}
+# Create your slides in Markdown - click the _Slides_ button to check out the example.
+# {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
