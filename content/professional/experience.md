@@ -40,7 +40,7 @@ experience:
   - title: Analytics Intern
     company: After Inc.
     company_url: ''
-    company_logo:
+    company_logo: after
     location: Norwalk, CT
     date_start: '2016-01-01'
     date_end: '2020-12-31'
