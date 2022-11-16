@@ -25,22 +25,23 @@ experience:
   - title: Graduate Researcher
     company: Boeing
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: Boeing-full-logo
+    location: Charleston, SC
     date_start: '2022-05-27'
     date_end: '2022-08-19'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Research and development on various applications of aircraft
+                 design, materials, procedures, etc. on statistcs side of
+                 applied math team
+        # Responsibilities include:
+        # 
+        # * Develop statistics methodology for modeling data from multiple sources
+      
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Analytics Intern
+    company: After Inc.
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Norwalk, CT
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
