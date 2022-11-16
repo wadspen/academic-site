@@ -29,21 +29,10 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: [In preparation]
 
-abstract: Collaboration among multiple teams has played a major role in probabilistic forecasting
-events of influenza outbreaks, the COVID-19 pandemic, other disease outbreaks, and in many
-other fields. When collecting forecasts from individual teams, ensuring that each team’s model
-represents forecast uncertainty according to the same format allows for direct comparison of
-forecasts as well as methods of constructing multi-model ensemble forecasts. This paper outlines
-several common probabilistic forecast representation formats including parametric distributions,
-sample distributions, bin distributions, and quantiles and compares their use in the context of
-collaborative projects. We propose the use of a discrete mixture distribution format in
-collaborative forecasting in place of other formats. The flexibility in distribution shape, the ease
-for scoring and building ensemble models, and the reasonably low level of computer storage
-required to store such a forecast make the discrete mixture distribution an attractive alternative
-to the other representation formats.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac #convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
