@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Researcher
-    company: Boeing
+  - title: Boeing
+    company: Graduate Researcher
     company_url: ''
     company_logo: boeing
     location: Charleston, SC
@@ -37,8 +37,8 @@ experience:
         # * Develop statistics methodology for modeling data from multiple sources
       
 
-  - title: Analytics Intern
-    company: After Inc.
+  - title: After Inc.
+    company: Analytics Intern
     company_url: ''
     company_logo: after
     location: Norwalk, CT
