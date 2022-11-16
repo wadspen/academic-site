@@ -25,12 +25,12 @@ experience:
   - title: Graduate Researcher
     company: Boeing
     company_url: ''
-    company_logo: org-gc
+    company_logo: boeing.png
     location: Charleston, SC
     date_start: '2022-05-27'
     date_end: '2022-08-19'
     description: Research and development on various applications of aircraft
-                 design, materials, procedures, etc. on statistcs side of
+                 design, materials, procedures, etc. on statistics side of
                  applied math team
         # Responsibilities include:
         # 
@@ -44,7 +44,8 @@ experience:
     location: Norwalk, CT
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Data analytics on warranty advertising, sales, and claims 
+                 
 
 design:
   columns: '2'
