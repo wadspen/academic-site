@@ -25,7 +25,7 @@ experience:
   - title: Graduate Researcher
     company: Boeing
     company_url: ''
-    company_logo: boeing.png
+    image: boeing.png
     location: Charleston, SC
     date_start: '2022-05-27'
     date_end: '2022-08-19'
