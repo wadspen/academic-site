@@ -3,9 +3,8 @@ title: Future View Responses
 subtitle: 
 
 # Summary for listings and search engines
-summary: Every week the Wall Street Journal column Future View issues a 
-prompt related to current issues and invites all current college students to 
-respond with their opinion in 250 words or less. 
+summary: Every week the Wall Street Journal column Future View issues an opinion
+prompt for college students. These are some of my responses.
 
 # Link this post with a project
 #projects: []
