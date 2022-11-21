@@ -6,7 +6,7 @@ subtitle:
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Link this post with a project
-projects: []
+#projects: []
 
 # Date published
 date: '2020-12-13T00:00:00Z'
@@ -27,6 +27,8 @@ image:
   focal_point: ''
   placement: 1
   preview_only: false
+  shape: circle
+  size: small
 
 authors:
   - admin
@@ -49,7 +51,7 @@ Forming my own family with a strong marriage and children has become a priority 
 
 
 ### 4/23/22
-Many people seem offended by the kind of wealth that Elon Musk can use as disposable income. Are they right to be? Is the existence of a huge disparity in wealth a problem for American culture?
+*Many people seem offended by the kind of wealth that Elon Musk can use as disposable income. Are they right to be? Is the existence of a huge disparity in wealth a problem for American culture?*
 
 That a person has significantly more wealth than others is hardly enough reason to be offended by them. It has a similar flavor to taking offense from Kevin Durant or Yo-Yo Ma because of their uncommonly virtuoso athletic and music skills. The filthy rich do not have a monopoly on greed and jealousy. Middle- and lower-income Americans are just as capable of greed as wealthier Americans, and offense at someone’s wealth may easily be a product of that greed. 
 
@@ -57,7 +59,7 @@ The disparity of wealth is not as concerning to me as the level of poverty that 
 
 
 ### 4/29/22
-Responding to Covid, American colleges increasingly relied upon remote learning, and, once in place, these distance learning courses are proving hard to halt. Is this move towards online classes for traditional college education a good trend?
+*Responding to Covid, American colleges increasingly relied upon remote learning, and, once in place, these distance learning courses are proving hard to halt. Is this move towards online classes for traditional college education a good trend?*
 
 As long as online classes supplement in-classroom learning without completely replacing it. For decades, colleges across the nation have been grappling for innovative ideas to provide an education fit for the 21st century. The COVID-19 pandemic catalyzed a major change which had long been overdue. A couple cautious semesters proved that full time remote learning is too much. But a healthy diet of remote or semi-remote courses along with traditional in-person classes can provide both an institution and its students valuable flexibility without extinguishing precious social interaction. 
 
@@ -67,7 +69,7 @@ While remote learning may not be for everyone, it certainly is for some. It affo
 
 
 ### 10/18/22
-Cheating has recently been suspected in chess, poker, math competitions and even a fishing tournament. Is cheating on the rise in colleges? And what should we do about it?
+*Cheating has recently been suspected in chess, poker, math competitions and even a fishing tournament. Is cheating on the rise in colleges? And what should we do about it?*
 
 Study websites like Chegg have made answers to homework and exam questions readily accessible to any and all students. That along with remote/take-home exams becoming increasingly common has led to a rise in cheating. This increase in academic dishonesty is disheartening, but it does exploit old-fashioned educational norms which should be reformed as technology advances. A skill under-appreciated by many educators yet highly valuable in the 21st century is finding solutions to difficult problems by “googling”. 
 
@@ -77,7 +79,7 @@ While true that the student who -without care for learning- simply submits what 
 
 
 ### 10/25/22
-This summer, to much congratulation from environmentalists, California enacted rules that would ban the sale of new gasoline-powered cars by 2035. Are electric cars actually the future? Should they be?
+*This summer, to much congratulation from environmentalists, California enacted rules that would ban the sale of new gasoline-powered cars by 2035. Are electric cars actually the future? Should they be?*
 
 At first glance, the rules banning gas-powered cars don’t seem like they’ll have a long shelf life. It would spell industrial disaster unless within 12 years road/parking infrastructure can account for the added weight and charging of many electric vehicles, increasingly large volumes of electricity can be produced (which it better be clean, otherwise the new rules are for naught), and batteries can be reinvented to last longer and charge faster.  And frankly none of the above will be useful unless electric cars are in HIGH demand. Like I said, a short shelf life seems likely. If however the demand is there, than a 12 year revolution is very possible.
 
