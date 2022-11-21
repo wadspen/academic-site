@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page. Use a real number to keep on page
 weight: 0
