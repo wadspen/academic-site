@@ -39,7 +39,7 @@ categories:
   - 
 ---
 
-{{< figure src="wsjai.png" numbered="false" >}}
+{{<div style="text-align: right;">< figure src="wsjai.png" numbered="false" >}}
 
 
 ### 4/16/22
