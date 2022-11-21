@@ -23,7 +23,7 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**WSJ**]()'
-  focal_point: ''
+  focal_point: 'Left'
   placement: 0
   preview_only: true
   image_shape: circle
