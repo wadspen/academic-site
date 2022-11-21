@@ -24,8 +24,8 @@ featured: false
 image:
   caption: 'Image credit: [**WSJ**]()'
   focal_point: 'Left'
-  placement: 0
-  preview_only: true
+  placement: 1
+  preview_only: false
   image_shape: circle
   image_size: small
 
