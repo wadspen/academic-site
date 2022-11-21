@@ -6,8 +6,8 @@ widget: accomplishments
 # This file represents a page section.
 headless: false
 
-# Order that this section appears on the page.
-weight: 50
+# Order that this section appears on the page. Use a real number to keep on page
+weight: 0
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
