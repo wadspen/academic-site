@@ -1,9 +1,17 @@
 ---
 title: Future View Responses
-subtitle: 
+subtitle: Every week the [Wall Street Journal](https://www.wsj.com/) column 
+[*Future View*](https://www.wsj.com/news/types/future-view) issues a 
+prompt related to current issues and invites all current college students to 
+respond with their opinion in 250 words or less. The following are prompts to 
+which I have written and submitted a response.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Every week the [Wall Street Journal](https://www.wsj.com/) column 
+[*Future View*](https://www.wsj.com/news/types/future-view) issues a 
+prompt related to current issues and invites all current college students to 
+respond with their opinion in 250 words or less. The following are prompts to 
+which I have written and submitted a response.
 
 # Link this post with a project
 #projects: []
