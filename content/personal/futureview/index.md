@@ -21,7 +21,13 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-
+image:
+  caption: 'Image credit: [**WSJ**]()'
+  focal_point: 'Left'
+  placement: 1
+  preview_only: true
+  image_shape: circle
+  image_size: small
 
 authors:
   - admin
@@ -33,7 +39,8 @@ categories:
   - 
 ---
 
-![screen reader text](wsjai.jpg "WSJAI")
+{{< figure src="wsjai.jpg" numbered="false" resize_options="250x250" >}}
+
 
 ### 4/16/22
 *Recent Pew surveys have suggested that 40% of adults 25 to 54 are neither married nor living with a partner. Fully half of single adults are no longer looking for a relationship. Even sexual activity has reached a 30-year low. Should the culture combat these trends? Do you plan to form a family?*
