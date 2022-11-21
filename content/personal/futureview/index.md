@@ -25,7 +25,7 @@ image:
   caption: 'Image credit: [**WSJ**]()'
   focal_point: ''
   placement: 0
-  preview_only: false
+  preview_only: true
   image_shape: circle
   image_size: small
 
