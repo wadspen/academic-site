@@ -39,7 +39,6 @@ categories:
   - 
 ---
 
-![screen reader text](wsjai.jpg "")
 
 {{< figure src="wsjai.png" numbered="false" class="alignleft" >}}
 ### 4/16/22
