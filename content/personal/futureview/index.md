@@ -38,8 +38,8 @@ categories:
   - 
 ---
 
-## 4/16/22
-Recent Pew surveys have suggested that 40% of adults 25 to 54 are neither married nor living with a partner. Fully half of single adults are no longer looking for a relationship. Even sexual activity has reached a 30-year low. Should the culture combat these trends? Do you plan to form a family?
+### 4/16/22
+***Recent Pew surveys have suggested that 40% of adults 25 to 54 are neither married nor living with a partner. Fully half of single adults are no longer looking for a relationship. Even sexual activity has reached a 30-year low. Should the culture combat these trends? Do you plan to form a family?***
 
 The referred to trends on declining relationships and marriage rates are trends that the culture should combat. Marriage can provide a couple with social and economic stability which is much more difficult to find in platonic or fraternal relationships. This stability which begins at a household level will naturally and positively influence a community and nation. This is especially true as children raised in these homes perpetuate what they learn as they enter society and the workforce.
 
@@ -48,7 +48,7 @@ A concerning consequence of fewer marriage relationships is a lower national bir
 Forming my own family with a strong marriage and children has become a priority for me. In part this is because the most natural and effective way for a person wanting to improve their own quality of their life as well as the quality of living in society is to commit oneself in an equally yoked marriage relationship under which they raise their children.
 
 
-## 4/23/22
+### 4/23/22
 Many people seem offended by the kind of wealth that Elon Musk can use as disposable income. Are they right to be? Is the existence of a huge disparity in wealth a problem for American culture?
 
 That a person has significantly more wealth than others is hardly enough reason to be offended by them. It has a similar flavor to taking offense from Kevin Durant or Yo-Yo Ma because of their uncommonly virtuoso athletic and music skills. The filthy rich do not have a monopoly on greed and jealousy. Middle- and lower-income Americans are just as capable of greed as wealthier Americans, and offense at someone’s wealth may easily be a product of that greed. 
@@ -56,7 +56,7 @@ That a person has significantly more wealth than others is hardly enough reason 
 The disparity of wealth is not as concerning to me as the level of poverty that exists. And I’m not convinced that one causes the other. A culture that focuses on lifting the poor is far more constructive than one focused on leveling the rich. I certainly believe in individual responsibility and that persons with fortunes like Elon Musk’s should naturally feel inclined to use those fortunes to help others in need. At the same time, they should not be compelled by politicians or society as to how they spend their disposable income. Such compelling is a threat to free market capitalism. For Elon Musk, an $11 billion tax obligation is obligation enough.
 
 
-## 4/29/22
+### 4/29/22
 Responding to Covid, American colleges increasingly relied upon remote learning, and, once in place, these distance learning courses are proving hard to halt. Is this move towards online classes for traditional college education a good trend?
 
 As long as online classes supplement in-classroom learning without completely replacing it. For decades, colleges across the nation have been grappling for innovative ideas to provide an education fit for the 21st century. The COVID-19 pandemic catalyzed a major change which had long been overdue. A couple cautious semesters proved that full time remote learning is too much. But a healthy diet of remote or semi-remote courses along with traditional in-person classes can provide both an institution and its students valuable flexibility without extinguishing precious social interaction. 
@@ -66,7 +66,7 @@ Before the pandemic, my undergraduate university, which primarily offered on cam
 While remote learning may not be for everyone, it certainly is for some. It affords more flexibility for learning, and what better word better describes the 21st century than “flexibility”?
 
 
-## 10/18/22
+### 10/18/22
 Cheating has recently been suspected in chess, poker, math competitions and even a fishing tournament. Is cheating on the rise in colleges? And what should we do about it?
 
 Study websites like Chegg have made answers to homework and exam questions readily accessible to any and all students. That along with remote/take-home exams becoming increasingly common has led to a rise in cheating. This increase in academic dishonesty is disheartening, but it does exploit old-fashioned educational norms which should be reformed as technology advances. A skill under-appreciated by many educators yet highly valuable in the 21st century is finding solutions to difficult problems by “googling”. 
@@ -76,7 +76,7 @@ At least in STEM courses, too many professors fault students who use the interne
 While true that the student who -without care for learning- simply submits what they find online will not really benefit from completing assignments, a dedicated student will use critical reading and thinking skills as they surf the web, thus internalizing class material as well as sharpening the evermore important skill of googling. Speaking from experience, the two students may receive similar marks on homework assignments, but come exam day there will be a clear separation of the wheat from the tares.
 
 
-## 10/25/22
+### 10/25/22
 This summer, to much congratulation from environmentalists, California enacted rules that would ban the sale of new gasoline-powered cars by 2035. Are electric cars actually the future? Should they be?
 
 At first glance, the rules banning gas-powered cars don’t seem like they’ll have a long shelf life. It would spell industrial disaster unless within 12 years road/parking infrastructure can account for the added weight and charging of many electric vehicles, increasingly large volumes of electricity can be produced (which it better be clean, otherwise the new rules are for naught), and batteries can be reinvented to last longer and charge faster.  And frankly none of the above will be useful unless electric cars are in HIGH demand. Like I said, a short shelf life seems likely. If however the demand is there, than a 12 year revolution is very possible.
