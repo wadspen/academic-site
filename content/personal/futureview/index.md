@@ -27,8 +27,8 @@ image:
   focal_point: ''
   placement: 1
   preview_only: false
-  shape: circle
-  size: small
+  image_shape: circle
+  image_size: small
 
 authors:
   - admin
