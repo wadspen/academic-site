@@ -1,6 +1,7 @@
 ---
 title: Future View Responses
-subtitle: Every week the [Wall Street Journal](https://www.wsj.com/) column [*Future View*](https://www.wsj.com/news/types/future-view) issues a prompt related to current issues and invites all current college students to respond with their opinion in 250 words or less. The following are prompts to which I have written and submitted a response.
+subtitle: ![screen reader text](wsjai.png "")
+Every week the [Wall Street Journal](https://www.wsj.com/) column [*Future View*](https://www.wsj.com/news/types/future-view) issues a prompt related to current issues and invites all current college students to respond with their opinion in 250 words or less. The following are prompts to which I have written and submitted a response.
 
 # Summary for listings and search engines
 summary: Every week the [Wall Street Journal](https://www.wsj.com/) column [*Future View*](https://www.wsj.com/news/types/future-view) issues a prompt related to current issues and invites all current college students to respond with their opinion in 250 words or less. The following are prompts to which I have written and submitted a response.
@@ -40,8 +41,6 @@ categories:
 ---
 
 {{< figure src="wsjai.png" numbered="false" class="alignleft" >}}
-
-
 ### 4/16/22
 *Recent Pew surveys have suggested that 40% of adults 25 to 54 are neither married nor living with a partner. Fully half of single adults are no longer looking for a relationship. Even sexual activity has reached a 30-year low. Should the culture combat these trends? Do you plan to form a family?*
 
