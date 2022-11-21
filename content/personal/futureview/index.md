@@ -39,7 +39,7 @@ categories:
 ---
 
 ### 4/16/22
-***Recent Pew surveys have suggested that 40% of adults 25 to 54 are neither married nor living with a partner. Fully half of single adults are no longer looking for a relationship. Even sexual activity has reached a 30-year low. Should the culture combat these trends? Do you plan to form a family?***
+*Recent Pew surveys have suggested that 40% of adults 25 to 54 are neither married nor living with a partner. Fully half of single adults are no longer looking for a relationship. Even sexual activity has reached a 30-year low. Should the culture combat these trends? Do you plan to form a family?*
 
 The referred to trends on declining relationships and marriage rates are trends that the culture should combat. Marriage can provide a couple with social and economic stability which is much more difficult to find in platonic or fraternal relationships. This stability which begins at a household level will naturally and positively influence a community and nation. This is especially true as children raised in these homes perpetuate what they learn as they enter society and the workforce.
 
