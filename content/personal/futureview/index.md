@@ -39,7 +39,7 @@ categories:
   - 
 ---
 
-![screen reader text](image.jpg "" class="alignleft")
+![screen reader text](wsjai.png "" class="alignleft")
 
 {{< figure src="wsjai.png" numbered="false" class="alignleft" >}}
 ### 4/16/22
