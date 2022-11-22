@@ -1,6 +1,6 @@
 ---
 title: Using Mixture Distributions in Collaborative Forecasting of COVID-19
-summary: 
+summary: Iowa State department of statistics 75th anniversary celebration
 tags:
   - COVID-19
   - Forecasting
@@ -28,7 +28,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-poster: "content/presentations/75th_anniversary_poster.pdf"
+slides: "content/presentations/75th_anniversary_poster.pdf"
 ---
 
 The COVID-19 Forecast Hub was established in 2020 as a collaborative
