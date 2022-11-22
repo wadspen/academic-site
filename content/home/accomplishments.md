@@ -5,7 +5,10 @@ widget: accomplishments
 
 # This file represents a page section.
 headless: true
+
+# Set to false to keep from publishing.
 active: false
+
 # Order that this section appears on the page. Use a real number to keep on page
 weight: 0
 

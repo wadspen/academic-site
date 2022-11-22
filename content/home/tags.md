@@ -6,6 +6,9 @@ widget: tag_cloud
 # This file represents a page section.
 headless: true
 
+# Set to false to keep from publishing.
+active: false
+
 # Order that this section appears on the page.
 weight: 120
 
