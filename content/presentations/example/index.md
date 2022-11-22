@@ -18,7 +18,7 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: ''
+url_poster: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -28,7 +28,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-poster: example
+poster: "content/presentations/75th_anniversary_poster.pdf"
 ---
 
 The COVID-19 Forecast Hub was established in 2020 as a collaborative
