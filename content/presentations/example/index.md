@@ -50,3 +50,5 @@ Introduction
 We propose that collaborative forecast projects utilize a
 discrete mixture distribution format as a preferable alternative to
 the four mentioned above.
+
+{{< figure src="75th_anniversary_poster.pdf" numbered="false" class="alignleft" >}}
