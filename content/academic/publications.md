@@ -36,7 +36,3 @@ design:
   columns: '2'
 ---
 
-# Not sure what this is all about
-# {{% callout note %}}
-# Quickly discover relevant content by [filtering publications](./publication/).
-# {{% /callout %}}
