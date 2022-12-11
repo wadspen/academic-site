@@ -30,76 +30,23 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
-  - Academic
-  - 开源
+  - Gathering Israel
 
 categories:
-  - Demo
-  - 教程
 ---
 
-## Overview
+May 15, 2022 was a beautiful Sunday morning in Jicin, Czech Republic. My sister Jamie and I were sitting in the corner of the back row of a small latter-day saint chapel on the ground floor of a residential building. It was our first morning in the country, and we had driven up so we could visit a nearby rock park. But we decided that first we would attend a local sacrament meeting. 
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+With less than 20 hours in the country, it was clear that things were very different from where we lived in Iowa and Utah. The food, grocery stores, architecture, language, and so many other things proved the culture was different. That is, after all, why we go on vacation isn’t it? To experience something new. But this morning, it wasn’t what was new to me that left an impression but what was familiar.
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+When we arrived at the chapel, we tried to be inconspicuous and made our way to the very back. As other saints came in we observed how they greeted on another with warm smiles, hugs and kisses, some members appearing to greet every person in the room before selecting a seat. As we watched Jamie said to me, “These people love each other so much!” Inevitably, a friendly man came to sit near us and greeted us with well practiced English! He was kind and made sure one of the sisters missionaries sat by us to interpret the meeting’s proceedings.  As it turned out, this sister missionary was on her last Sunday as a missionary and would be on her way home to Pocatello, Idaho -our hometown- in a couple days! 
 
-## Get Started
+The whole sacrament meeting experience had an aura of familiarity. Despite the difference in language and appearance, every moment was permeated with a spiritual feeling I know well and love maybe more than any other feeling. As the sacrament was blessed and passed, I felt the same sense of renewal I hope to feel every week when recommitting myself to Jesus Christ and His gospel. I also wondered at what sort of role the young men might play in the future church. Already an apostle and member of the First Presidency had come from the Czech Republic. What other roles would these saints play? When we sang hymns, I listened carefully to the songs I know so well sung with words I couldn’t understand. 
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+Through our interpreter, we learned it was ward conference and that the two speakers that day were the bishop and the stake president. The bishop talked about his apple orchard and the regular care his trees required for producing the best fruit. He related this to the care we need to take of our testimonies and of the church so we can receive the full blessings of the Lord. He also enthusiastically expressed his hope and confidence that if the saints in the country dug deep in their focus on the gospel, the prophet would announce plans for a temple in Prague in 2025. This hit home hard because of the recent counsel from stake leaders in Iowa to work and pray that the state would very soon receive a temple. The stake president also spoke on the need to strengthen our testimonies. He quoted extensively from President Nelson and bore a powerful testimony the Savior, the restoration, the Book of Mormon, and a living prophet. 
 
-## Crowd-funded open-source software
+As the stake president spoke, I remembered a few years earlier reading an article in the Church News that the first Czech Republic stake had just been organized. I found the article online and realized that it was exactly six years since the stake was organized on May 15, 2016! Our sister missionary confirmed that the stake president we had just heard was the same who was set apart by President Uchtdorf. To me, sitting in this meeting was sitting with real life pioneers. And after the meeting when President Pilka came to shake our hands, I felt like I was shaking the hand of a celebrity. From the beginning to the end, I couldn’t help but recall what President Nelson said during an “unforgettable” general conference two years earlier.
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+“We live in a day that ‘our forefathers have awaited with anxious expectation.’ We have front-row seats to witness live what the prophet Nephi saw only in vision, that ‘the power of the Lamb of God’ would descend ‘upon the covenant people of the Lord, who were scattered upon all the face of the earth; and they were armed with righteousness and with power of God in great glory.’”
