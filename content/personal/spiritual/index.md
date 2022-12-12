@@ -50,3 +50,6 @@ Through our interpreter, we learned it was ward conference and that the two spea
 As the stake president spoke, I remembered a few years earlier reading an article in the Church News that the first Czech Republic stake had just been organized. I found the article online and realized that it was exactly six years since the stake was organized on May 15, 2016! Our sister missionary confirmed that the stake president we had just heard was the same who was set apart by President Uchtdorf. To me, sitting in this meeting was sitting with real life pioneers. And after the meeting when President Pilka came to shake our hands, I felt like I was shaking the hand of a celebrity. From the beginning to the end, I couldn’t help but recall what President Nelson said during an “unforgettable” general conference two years earlier.
 
 *“We live in a day that ‘our forefathers have awaited with anxious expectation.’ We have front-row seats to witness live what the prophet Nephi saw only in vision, that ‘the power of the Lamb of God’ would descend ‘upon the covenant people of the Lord, who were scattered upon all the face of the earth; and they were armed with righteousness and with power of God in great glory.’”*
+
+
+thechurchnews.com/2016/5/17/23214240/president-uchtdorf-creates-first-stake-in-czech-republic
