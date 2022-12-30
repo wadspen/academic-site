@@ -13,7 +13,7 @@ better.
 
 Before I am anything, I am a member of [The Church of Jesus Christ of Latter-day
 Saints](https://www.churchofjesuschrist.org/?lang=eng). Every week I spend hours
-studying the restored gospel, and just recently began writing some of my 
+studying the restored gospel, and occasionally write up 
 {{< staticref "personal/spiritual" >}}thoughts{{< /staticref >}} to be
 shared on this site.
 
