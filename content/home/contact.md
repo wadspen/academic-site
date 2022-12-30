@@ -28,15 +28,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: sgw96@iastate.edu
+  # email: sgw96@iastate.edu
   # phone: (208) 380-0085
-  # address:
-  #   street: 301 Jewel Dr. Unit 2
-  #   city: Ames
-  #   region: IA
-  #   postcode: '50010'
-  #   country: United States
-  #   country_code: US
+  address:
+     street: 301 Jewel Dr. Unit 2
+     city: Ames
+     region: IA
+     postcode: '50010'
+     country: United States
+     country_code: US
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
