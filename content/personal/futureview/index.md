@@ -85,3 +85,23 @@ While true that the student who -without care for learning- simply submits what 
 At first glance, the rules banning gas-powered cars don’t seem like they’ll have a long shelf life. It would spell industrial disaster unless within 12 years road/parking infrastructure can account for the added weight and charging of many electric vehicles, increasingly large volumes of electricity can be produced (which it better be clean, otherwise the new rules are for naught), and batteries can be reinvented to last longer and charge faster.  And frankly none of the above will be useful unless electric cars are in HIGH demand. Like I said, a short shelf life seems likely. If however the demand is there, than a 12 year revolution is very possible.
 
 Virtually everyone agrees that cleaner technology is better technology, and bigger steps than ever are being taken in that direction. The electric vehicle industry may be infantile at the moment, but if Elon Musk is right “Tesla is recession proof” and so may be other electric vehicles. When the customer base grows large enough, modern history shows that suppliers tend to approach the customer where they are. This was seen in the 1960s with space exploration, 
+
+### 12/20/22
+*What are your holiday traditions? What brings you joy this holiday season?*
+
+As a child, the holiday traditions that I most looked forward to were those which were calculated to benefit me. Every fall, my siblings and I would draw a name from a hat to determine who got a gift for whom -always I had my fingers crossed that an older/more well to do sibling drew my name. We always went sledding at a nearby hill at the first snow which if luck was on our side was a snow day. And my mother would make several batches of delicious pecan log rolls. These and other traditions were capped on Christmas day when we would wake up early to a room of presents!
+
+Today I still love the traditions that made little me so giddy but have found that I care less for presents and sweets with my name on them. More recently, I find joy during this season as I reach out and serve others and as I focus more on the Baby whose birth Christmas celebrates. Doing either inevitably causes me to do the other.
+
+One childhood tradition which I’ve tried to continue since moving away is to gather a group of friends and sing carols at the doors of people facing the holiday season alone or with some disappointment. Newer traditions for me include donating simple goods to local charities or writing personalized notes to family and friends whom I see little of. It’s in traditions of service that I find the most joy during the holiday season!
+
+
+### 12/27/22
+*What changes do you expect in 2023? What lessons were learned in 2022? Will the new year be better or worse than the past few years have been?*
+
+When it comes to stating my expectations for the future, I consider words of wisdom from the Oracle of Omaha. “Forecasts may tell you a great deal about the forecaster; they tell you nothing about the future.” In 2022, those who expected the unexpected would have been less surprised when the UK changed PM twice, Elon Musk bought Twitter, and countless other falsely predicted events occurred. Those who didn’t, learned that a good rule of thumb is to withhold stock from many “expert” forecasts.
+
+Rather than bank on what we believe the future will bring, 2022 taught us to carefully consider what those beliefs say about us as individuals and as a civilization. If Mr. Buffet is correct, whatever I predict for 2023 will probably not occur. But hopefully my predictions are reflective of a person who chooses hope and optimism over fear and doubt.
+
+My expectations for 2023? More people will tend towards introspection before judgment. Nations around the globe will take key steps in liberating their people and joining the free world. The world economy will not dip into an expected recession. And BYU will shock the nation by winning the Big 12 football championship!
+
