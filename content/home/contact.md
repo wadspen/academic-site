@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Set to false to keep from publishing.
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 130
