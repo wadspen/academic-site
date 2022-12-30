@@ -25,4 +25,4 @@ several major newspapers, but the one I read most and the only one of which I'm
 a subscriber is the WSJ. I dream that one day the Journal will sketch my face
 and print it with a published article. A good start would be to have one of my
 250 word 
-{{< staticref "personal/futureview" >}}opinions{{< /staticref >}} published.
+{{< staticref "futureview" >}}opinions{{< /staticref >}} published.

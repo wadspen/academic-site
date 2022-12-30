@@ -3,7 +3,7 @@ title: Back Row Seats, Front Row Experience
 
 
 # Summary for listings and search engines
-summary: My experience worshiping with saints on the other side of the world.
+summary: My experience worshipping with saints on the other side of the world.
 
 # Link this post with a project
 projects: []
