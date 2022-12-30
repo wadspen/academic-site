@@ -71,8 +71,9 @@ highlight_name: true
 ---
 
 I am a fourth year PhD student studying under 
-[Dr. Jarad Niemi](https://www.jarad.me/). I chose to study Statistics in 2017
+[Dr. Jarad Niemi](https://www.jarad.me/). As an undergraduate at BYU, I chose to 
+study statistics 
 on a whim and have yet to look back. Five years later, I'm evermore amazed at 
-the power of Statistics and the brilliance of great statisticians.
+the powerful insights made from data and the brilliance of great statisticians.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
