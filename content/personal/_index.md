@@ -7,7 +7,8 @@ Outside of scholastic and professional pursuits, I have a lot of life I'm
 living. It's increasingly important to me to write down my experiences, and I'm
 attempting to share more freely those experiences with anyone who cares to hear 
 them.
-There are many things that make me who I am. I am fun-loving and rarely serious,
+There are many things that make me who I am. I am fun-loving and occasionally 
+serious,
 but I am also intensely spiritual and always hoping to make someone else's life
 better.
 
