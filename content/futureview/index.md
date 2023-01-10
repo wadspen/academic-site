@@ -105,3 +105,13 @@ Rather than bank on what we believe the future will bring, 2022 taught us to car
 
 My expectations for 2023? More people will tend towards introspection before judgment. Nations around the globe will take key steps in liberating their people and joining the free world. The world economy will not dip into an expected recession. And BYU will shock the nation by winning the Big 12 football championship!
 
+### 1/10/23
+*Do you plan on buying a home in the future? Is homeownership important to you or are there advantages to renting? Is it possible to buy a home?*
+
+A year ago I came close. That says a lot considering my wages are those of a graduate student. After meeting with lenders, making visits with realtors, and reassessing my budget I was in position to take the leap. The year before last I discovered the sweet freedom of renting a place without roommates making the added freedom of owning over renting difficult to resist. Sure it's nice that my landlord fixes leaks and replaces broken fuses. But what are those tasks when I get to choose the color of the walls and where to place the nail for hanging a picture?
+
+The fact that I, a full-time student with a full-time student income, was in a position where buying a home was possible convinces me that homeownership is a status still available to those who prioritize it. Houses may cost more than they used to, but much of the reason they're hard to afford is a societal shift in spending priorities. Traveling the world and eating out are examples of expensive hobbies which in recent decades have soared in importance. Cut those out of a budget and soon a savings account with enough for a down-payment won't be out of reach. 
+
+Ultimately my eventual graduation and likely move from the state changed my mind on home buying. Not to mention I wanted to eat out more and visit Europe in 2022. Upon graduation and landing a stable job, however, buying a home will almost certainly top my to-do list.
+
+
