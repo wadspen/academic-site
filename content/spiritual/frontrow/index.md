@@ -1,5 +1,5 @@
 ---
-title: Back Row Seats, Front Row Experience
+title: Back-row Seats, Front-row Experience
 
 
 # Summary for listings and search engines
